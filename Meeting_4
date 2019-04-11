@@ -1,0 +1,5 @@
+Meeting with Ryan, Kevin R, and Simon. Talked about working on the Node.JS for the bookmarks page and meeting at 12 in the engineering center on Monday.
+Decided to reduce scope and not implement a calander and to-do list. 
+Login page ejs has been tested with the login database. posting users to it and getting users from it both work.
+Database will be modified to have a seperate table for hyperlinks.
+Ryan will work on milestone 5 and have it completed by the duedate on sunday. 
